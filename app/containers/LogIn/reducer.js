@@ -17,7 +17,7 @@ export const initialState = {
     isSuccess: false,
     isValid: false,
     error: '',
-    data: {},
+    data: { email: 'testadmin@xyz.com', password: 'xyz@123' },
   },
 };
 
